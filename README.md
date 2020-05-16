@@ -47,4 +47,8 @@ What mean this? mean that have compiled none file ... because in folder
 
 Now put Costycnc.java in this folder and write again "ant extensions" ... and after building will see this
 
+  ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/5.jpg)
+  
+and in appinventor\components\build\extensions will find 
 
+  ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/6.jpg)
