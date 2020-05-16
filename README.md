@@ -27,5 +27,8 @@ set manually windows variable or create batch script :
  
  run this batch file 2-3 times ... because i see that if is executed one time thre variables is not set corectly 
  
- now open folder 
+ Now verify if all is ok:
+              
+                   open folder appinventor , click mouse right and select "Git bash here"
+                   ![alt text](https://github.com/costycnc/espbasic_modified/blob/master/board.jpg)
                  
