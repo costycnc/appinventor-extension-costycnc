@@ -30,5 +30,6 @@ set manually windows variable or create batch script :
  Now verify if all is ok:
               
                    open folder appinventor , click mouse right and select "Git bash here"
-                   ![alt text](https://github.com/costycnc/espbasic_modified/blob/master/board.jpg)
+                   
+ ![alt text](https://github.com/costycnc/espbasic_modified/blob/master/board.jpg)
                  
