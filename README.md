@@ -31,5 +31,13 @@ set manually windows variable or create batch script :
               
                    open folder appinventor , click mouse right and select "Git bash here"
                    
- ![alt text](https://github.com/costycnc/espbasic_modified/blob/master/board.jpg)
+ ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/1.jpg)
+ 
+                   write "ant extensions"
+                   
+  ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/2.jpg)       
+  
+                  if a final received "BUILD SUCCESSFUL" mean that all is ok !!!
+                  
+  ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/3.jpg)                 
                  
