@@ -41,3 +41,8 @@ set manually windows variable or create batch script :
                   
   ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/3.jpg)                 
                  
+What mean this? mean that have compiled none file ... because in folder 
+
+..\appinventor\components\src\com\google\appinventor\components\runtime is not added any new file
+
+Now create a file test.java and inside put 
