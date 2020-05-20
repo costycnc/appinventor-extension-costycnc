@@ -54,8 +54,8 @@ and in appinventor\components\build\extensions will find
   ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/6.jpg)
   
              Download extension on http://ai2.appinventor.mit.edu/
-  ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/5.jpg)
+  ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/7.jpg)
   
              and ... Congratulations ... you have make first extension that do ... nothing!
 
-  ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/6.jpg)
+  ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/8.jpg)
