@@ -45,7 +45,7 @@ What mean this? mean that have compiled none file ... because in folder
 
 ..\appinventor\components\src\com\google\appinventor\components\runtime is not added any new file
 
-Now put Costycnc.java in this folder and write again "ant extensions" ... and after building will see this
+Now put Costy.java in this folder and write again "ant extensions" ... and after building will see this
 
   ![alt text](https://github.com/costycnc/appinventor-extension-costycnc/blob/master/foto/5.jpg)
   
