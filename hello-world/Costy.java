@@ -31,14 +31,10 @@ public class Costy extends AndroidNonvisibleComponent implements Component {
 
     }
 	
-	    @SimpleProperty(category = PropertyCategory.BEHAVIOR)
-    public double Cateto_A() {
-        return 100;
-    }
 	
     @SimpleProperty(category = PropertyCategory.BEHAVIOR)
     public String test() {
-		String test = "test";
+		String test = "Hello world!!!";
 		
         return test;
     }
